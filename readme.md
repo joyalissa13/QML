@@ -1,8 +1,11 @@
-<p align="left">
-  <a href="https://colab.research.google.com/github/joyalissa13/QML/blob/main/qml_pennylane_intro.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="32">
-  </a>
-</p>
+* **Introduction to QML** (`qml_pennylane_intro.ipynb`)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joyalissa13/QML/blob/main/qml_pennylane_intro.ipynb)
+
+* **Heart Prediction** (`heart_prediction.ipynb`)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joyalissa13/QML/blob/main/Heart_Prediction/heart_prediction.ipynb)
+
+* **Breast Cancer** (`breast_cancer.ipynb`)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joyalissa13/QML/blob/main/Breast_Cancer_Wisconsin/breast_cancer.ipynb)
 
 ## Resources
 * [IBM Research — Quantum Machine Learning](https://research.ibm.com/topics/quantum-machine-learning)
