@@ -1,0 +1,63 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+htmlcov/
+*.cover
+.pytype/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Data science / ML artifacts
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.parquet
+*.feather
+*.npy
+*.npz
+*.pickle
+
+# Databases
+*.db
+*.sqlite3
+
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets.json
+
+# Logs
+*.log
+logs/
