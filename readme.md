@@ -1,6 +1,8 @@
 * **Introduction to QML** (`qml_pennylane_intro.ipynb`)  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joyalissa13/QML/blob/main/qml_pennylane_intro.ipynb)
 
+* **Kernel Methods - Google** (`.ipynb`)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NTZDsNbk6KWO4b3T8ZYF2aX0NzXq7P7G?usp=sharing)
+
 * **Heart Prediction** (`heart_prediction.ipynb`)  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joyalissa13/QML/blob/main/Heart_Prediction/heart_prediction.ipynb)
 
