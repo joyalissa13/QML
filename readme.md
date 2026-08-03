@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://colab.research.google.com/github/joyalissa13/QML/blob/main/qml_pennylane_intro.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="32">
   </a>
